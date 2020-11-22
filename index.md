@@ -1,4 +1,6 @@
 * TOC
+{:.no_toc}
+1. A list as the Table Of Contents
 {:toc}
 
 # Intro

@@ -1,4 +1,4 @@
-[[_TOC_]]
+{:toc}
 
 # Intro
 This site is still very much a work in progress. Talk to me about common interests and projects you find interesting!

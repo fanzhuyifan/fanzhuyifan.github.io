@@ -7,4 +7,5 @@ relative_links:
 include:
   - README.md
   - index.md
+  - projects/ignore-tool.md
 theme: jekyll-theme-midnight
